@@ -4,5 +4,5 @@ Demo:
 Video:
 # DESIGN
 I wanted to recreate my house in aframe as, like many others, I've been staying home most the time in response to the ongoing Covid-19 pandemic. Additionally, as both my sister and mother work with Covid patients, I stay in even longer for our safety and the safety of others.
-https://github.com/fpalting/VR_Project1/blob/main/img/outline_house.png
+
 ![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/outline_house.png?raw=true)
