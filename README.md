@@ -9,7 +9,7 @@ This is a rough outline of my house.
 ![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/outline_house.png?raw=true)
 
 The following images are turning the light switch on or off as well as switching between during covid and before covid.
-![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1109).png)
-![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1110).png)
-![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1111).png)
-![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1112).png)
+![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1109).png?raw=true)
+![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1110).png?raw=true)
+![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1111).png?raw=true)
+![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot (1112).png?raw=true)
