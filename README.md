@@ -18,3 +18,4 @@ Note the change in objects in the room after turning covid mode off.
 After turning off the lights using the light switch button.
 ![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1112).png)
 Note how the text is still visible.
+In additon to the switch/button interactions, you can also see the animated ceiling fan
