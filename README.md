@@ -9,7 +9,8 @@ I wanted to recreate my house in aframe as, like many others, I've been staying 
 This is a rough outline of my house.
 ![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/outline_house.png?raw=true)
 I wanted to make it as close as possible, so I recreated the interior using aframe geometry.
-# Interactions
+
+# Interactions/Animation
 The following are before and after images for pressing the covid mode and the light switch.
 ![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1109).png)
 ![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1110).png)
@@ -18,7 +19,11 @@ Note the change in objects in the room after turning covid mode off.
 After turning off the lights using the light switch button.
 ![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1112).png)
 Note how the text is still visible.
-In additon to the switch/button interactions, you can also see the animated ceiling fan
+In additon to the switch/button interactions, you can also see the animated ceiling fan.<br/>
+Additionally, you can interact with the hand sanitizer(s), switch, and dumbbells/barbells by clicking and dragging them.<br/>
+You can interact with the speaker on the table to play music.<br/>
+As shown in the presentation video, the ceiling fan is also animated.
+
 # Models
 [Switch by sugamo:](https://poly.google.com/view/brxBpvrkAEA)
 [Toilet by S. Paul Michael:](https://poly.google.com/view/5wCA1xBEZFt)
