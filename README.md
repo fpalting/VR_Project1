@@ -54,5 +54,9 @@ As shown in the presentation video, the ceiling fan is also animated.
 
 # 22 imported models
 # Models by me:
-Desk, bookcase, chairs, tables (small, dinner, end), lamp were made using Aframe geometry
+Desk, bookcase, chairs, tables (small, dinner, end), lamp were made using Aframe geometry.
+# Animations
+Ceiling fan.
+# Audio
+Clicking on the speaker.
 
