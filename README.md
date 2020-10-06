@@ -1,7 +1,7 @@
 # VR Project 1 CS 4331
 VR Project 1: Inside Out
 ## Demo:https://fpalting.github.io/VR_Project1/
-Note that the demo is pretty taxing, ideally, you should use a pc or have a very good smartphone. Click and drag is also not functional on mobile devices.
+Note that the demo is pretty taxing, ideally, you should use a pc or have a very good smartphone. Click and drag is also not functional on mobile devices. But click is replaced by a fuse/gaze based cursor.
 ## Video:https://youtu.be/-a89Buvf7Y4
 # DESIGN
 I wanted to recreate my house in aframe as, like many others, I've been staying home most the time in response to the ongoing Covid-19 pandemic. Additionally, as both my sister and mother work with Covid patients, I stay in even longer for our safety and the safety of others.
