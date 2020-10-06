@@ -8,8 +8,13 @@ I wanted to recreate my house in aframe as, like many others, I've been staying 
 
 This is a rough outline of my house.
 ![alt text](https://github.com/fpalting/VR_Project1/blob/main/img/outline_house.png?raw=true)
-I wanted to make it as close as possible, so I recreated the interior using aframe geometry.
-
+I wanted to make it as close as possible, so I recreated the interior using aframe geometry.<br/>
+Some images of various rooms in the house
+![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1114).png)
+![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1115).png)
+![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1116).png)
+![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1117).png)
+![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1118).png)
 # Interactions/Animation
 The following are before and after images for pressing the covid mode and the light switch.
 ![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1109).png)
@@ -21,6 +26,7 @@ After turning off the lights using the light switch button.
 Note how the text is still visible.
 In additon to the switch/button interactions, you can also see the animated ceiling fan.<br/>
 Additionally, you can interact with the hand sanitizer(s), switch, and dumbbells/barbells by clicking and dragging them.<br/>
+![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1119).png)
 You can interact with the speaker on the table to play music.<br/>
 As shown in the presentation video, the ceiling fan is also animated.
 
