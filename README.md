@@ -19,3 +19,30 @@ After turning off the lights using the light switch button.
 ![image](https://github.com/fpalting/VR_Project1/blob/main/img/Screenshot%20(1112).png)
 Note how the text is still visible.
 In additon to the switch/button interactions, you can also see the animated ceiling fan
+# Models
+Switch by sugamo: https://poly.google.com/view/brxBpvrkAEA
+Toilet by S. Paul Michael: https://poly.google.com/view/5wCA1xBEZFt
+Washer & Dryer by Ashley Alicea: https://poly.google.com/view/fuQfwKQtq-7
+Bathroom Vanity by Alejandro Isaza: https://poly.google.com/view/1qK1YXB5RU8
+Tub by sirkitree: https://poly.google.com/view/4ZzY5vQ_egA
+Office Chair by Ryan Donaldson: https://poly.google.com/view/3txPAhYeu-x
+Couch | Wde by Danny Bittman: https://poly.google.com/view/7Q_Ab2HLll1
+Book Stack by Danny Bittman: https://poly.google.com/view/1WggoIFq8tx
+Fridge and Cooker by Jakers_H: https://poly.google.com/view/bwL7Xvmql74
+books by Tiff Eidmann: https://poly.google.com/view/fkPRnm8iSXI
+Nightstand / Bedside Table by Alex "SAFFY" Safayan: https://poly.google.com/view/dO469Hvi0oY
+Bed by Alex "SAFFY" Safayan: https://poly.google.com/view/1Lisi_4xxFL
+Game Ready Disinfectant Hand Sanitizer Bottle by FunFant: https://sketchfab.com/3d-models/game-ready-disinfectant-hand-sanitizer-bottle-2be81dcbd5824aa6a5c6f596ca7c9a63
+Remote by Alex “SAFFY” Safayan: https://poly.google.com/view/9veo7sZrcBZ
+Speaker by Jose Rosero: https://poly.google.com/view/7EmeFe3O7GQ
+bed by DarkPixel Studios: https://sketchfab.com/3d-models/bed-54186aff66e2409a912cea9988ae5e11
+weighted Barbell by Jarlan Perez: https://poly.google.com/view/defq8qotcwX
+Toilet Paper Roll by Jarlan Perez: https://poly.google.com/view/2oyXb4vEPaj
+Poly by Google: Television, Shower head, Laptop, Ceiling fan
+https://poly.google.com/
+
+
+# 22 imported models
+# Models by me:
+Desk, bookcase, chairs, tables (small, dinner, end), lamp were made using Aframe geometry
+
