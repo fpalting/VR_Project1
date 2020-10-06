@@ -54,9 +54,9 @@ As shown in the presentation video, the ceiling fan is also animated.
 
 # 22 imported models
 # Models by me:
-Desk, bookcase, chairs, tables (small, dinner, end), lamp were made using Aframe geometry.
+Desk, bookcase, chairs, tables (small, dinner, end), lamp were made using Aframe geometry the dumbbell was an edited version of the barbell to be smaller.
 # Animations
-Ceiling fan.
+Ceiling fan is animated to rotate.
 # Audio
-Clicking on the speaker.
+Clicking on the speaker plays a song.
 
